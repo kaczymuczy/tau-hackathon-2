@@ -1,0 +1,21 @@
+{
+  "name": "traditional-tests-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test:v1:chrome": "npx cypress run --env appVersion=V1 --browser chrome",
+    "test:v1:firefox": "npx cypress run --env appVersion=V1 --browser firefox",
+    "test:v1:edge": "npx cypress run --env appVersion=V1 --browser edge",
+    "test:v2:chrome": "npx cypress run --env appVersion=V2 --browser chrome",
+    "test:v2:firefox": "npx cypress run --env appVersion=V2 --browser firefox",
+    "test:v2:edge": "npx cypress run --env appVersion=V2 --browser edge"
+  },
+  "author": "Volodymyr Vashchuk",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "latest",
+    "eslint": "^7.3.1",
+    "eslint-plugin-cypress": "^2.11.1"
+  }
+}

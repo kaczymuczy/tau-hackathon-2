@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://demo.applitools.com",
+    "env": {
+        "appVersion": "V1"
+    },
+    "firefoxGcInterval": {
+        "runMode": null,
+        "openMode": null
+    },
+    "video": false
+}

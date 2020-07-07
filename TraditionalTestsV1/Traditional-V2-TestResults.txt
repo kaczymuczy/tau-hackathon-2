@@ -1,0 +1,117 @@
+
+Task: 2, Test Name: only two shoes are visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: only black shoes are visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: the product grid Filters button is hidden, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: only two shoes are visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: only black shoes are visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the wishlist button is hidden, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the product grid layout buttons are hidden, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the grid item buttons are visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the product grid Filters button is hidden, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 1, Test Name: the wishlist button is hidden, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the product grid layout buttons are hidden, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the grid item buttons are visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the product image is visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the correct model number is visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the default shoe size is "Small", Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the current price is $33.00, Browser: Firefox, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the product image is visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the correct model number is visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the default shoe size is "Small", Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the current price is $33.00, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the header control buttons have correct margins, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the review counter has correct margin, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the "Add to cart" button has correct margins, Browser: Firefox, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: only two shoes are visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: only black shoes are visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: the product grid Filters button is hidden, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: only two shoes are visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: only black shoes are visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the wishlist button is hidden, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the product grid layout buttons are hidden, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the grid item buttons are visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the product grid Filters button is hidden, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 1, Test Name: the wishlist button is hidden, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the product grid layout buttons are hidden, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the grid item buttons are visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the product image is visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the default shoe size is "Small", Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the current price is $33.00, Browser: Edge, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the product image is visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the default shoe size is "Small", Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the current price is $33.00, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the header control buttons have correct margins, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the review counter has correct margin, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the "Add to cart" button has correct margins, Browser: Edge, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: only two shoes are visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: the product grid Filters button is hidden, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 2, Test Name: only two shoes are visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the wishlist button is hidden, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the product grid layout buttons are hidden, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: the grid item buttons are visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 2, Test Name: only two shoes are visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Pass
+Task: 2, Test Name: only black shoes are visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 2, Test Name: the search input is hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 2, Test Name: the wishlist button is hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 2, Test Name: the shopping cart counter is hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 2, Test Name: the product grid layout buttons are hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 2, Test Name: the grid item buttons are visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 2, Test Name: the Quick Links section is collapsed, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 1, Test Name: the product grid Filters button is hidden, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 1, Test Name: the wishlist button is hidden, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the product grid layout buttons are hidden, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the grid item buttons are visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 1, Test Name: the search input is hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 1, Test Name: the wishlist button is hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 1, Test Name: the shopping cart counter is hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 1, Test Name: the product grid layout buttons are hidden, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 1, Test Name: the grid item buttons are visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 1, Test Name: the Quick Links section is collapsed, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 3, Test Name: the product image is visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the default shoe size is "Small", Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the current price is $33.00, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status:Fail
+Task: 3, Test Name: the product image is visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the default shoe size is "Small", Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the current price is $33.00, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the header control buttons have correct margins, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the review counter has correct margin, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the "Add to cart" button has correct margins, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status:Fail
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Pass
+Task: 3, Test Name: the correct model number is visible, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 3, Test Name: the default shoe size is "Small", Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 3, Test Name: the review counter has correct margin, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 3, Test Name: the current price is $33.00, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail
+Task: 3, Test Name: the old price is gray and strikethrough, Browser: Chrome, Viewport: 500x700, Device: Mobile, Status:Fail

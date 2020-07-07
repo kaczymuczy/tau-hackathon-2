@@ -1,0 +1,19 @@
+{
+  "name": "modern-tests-v1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome --spec 'cypress/integration/modern-spec.js'",
+    "cypress:open": "cypress open",
+    "test:v1": "npx cypress run --env appVersion=V1 --browser chrome --spec 'cypress/integration/modern-spec.js'",
+    "test:v2": "npx cypress run --env appVersion=V2 --browser chrome --spec 'cypress/integration/modern-spec.js'"
+  },
+  "author": "Volodymyr Vashchuk",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "latest",
+    "cypress": "latest",
+    "eslint": "^7.3.1",
+    "eslint-plugin-cypress": "^2.11.1"
+  }
+}
